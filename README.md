@@ -1,6 +1,6 @@
 ## CC_Android_Dev_Read
 
-创力android开发架构技术栈
+android开发架构技术栈
 
 #dev_model_one 
 `结构分明，每一层都有自己要做的事情，便于合作开发，有人负责逻辑处理，有人负责页面刷新，等`
