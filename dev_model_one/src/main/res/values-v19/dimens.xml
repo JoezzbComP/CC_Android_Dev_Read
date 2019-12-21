@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="title_translucent_height">65dp</dimen>
+    <dimen name="title_margin_top">25dp</dimen>
+</resources>

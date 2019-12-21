@@ -1,0 +1,2 @@
+include ':app', ':dev_model_one', ':dev_model_two'
+rootProject.name='CC_Android_Dev_Read'
